@@ -12,6 +12,8 @@
 - [WALMART CAPSTONE PROJECT](https://github.com/Sjabez/WALMART-CAPSTONE) <b><i></b></i>
 - <b>AIRBNB CASE STUDY</b>
 - [AIR BNB CASE STUDY](https://github.com/Sjabez/AIRBNB-CASE-STUDY) <b><i></b></i>
+- <b>COVID 19 GLOBAL TREND ANALYSIS</b>
+- [COVID-19 Global Trend Analysis](https://github.com/Sjabez/COVID-19-GLOBAL-TREND-ANALYSIS-/blob/main/README.md) <b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>

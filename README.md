@@ -6,6 +6,13 @@
 - [CUSTOMER CHURN PROJECT](https://github.com/Sjabez/CUSTOMERCHURN)
 - <b>NETFLIX RECCOMENDER CAPSTONE PROJECT</b>
 - [NETFLIX RECCOMENDER CAPSTONE PROJECT](https://github.com/Sjabez/NETFLIXPROJECT/blob/main/README.md) <b><i></b></i>
+- <b>REVENUE PREDICTION MODEL</b>
+- [REVENUE PREDICTION MODEL](https://github.com/Sjabez/REVENUE-PREDICTION-MODEL)
+- <b>WALMART CAPSTONE PROJECT</b>
+- [WALMART CAPSTONE PROJECT](https://github.com/Sjabez/WALMART-CAPSTONE) <b><i></b></i>
+- <b>AIRBNB CASE STUDY</b>
+- [AIR BNB CASE STUDY](https://github.com/Sjabez/AIRBNB-CASE-STUDY) <b><i></b></i>
+
 
 <h2> 🤳 Connect with me:</h2>
 
